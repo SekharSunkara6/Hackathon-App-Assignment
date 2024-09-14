@@ -1,4 +1,4 @@
-## Vercel Hosed Link:
+## Vercel Hosted Link:
    - https://vercel.com/sunkara-purnasekhars-projects/hackathon-app-assignment
 
 ## It was an react based poject, so create react app in file repository.
