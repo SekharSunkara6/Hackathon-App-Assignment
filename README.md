@@ -1,5 +1,5 @@
 ## It was an react based poject, so create react app in file repository.
-   By using this command: "npx create-react-app my-app"
+   - By using this command: "npx create-react-app my-app"
 
 ## **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
